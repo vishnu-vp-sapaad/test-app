@@ -1,0 +1,23 @@
+.main {
+  width: 100vw;
+  padding: 0.5rem;
+  box-sizing: border-box;
+  max-width: 1000px;
+  width: 100%;
+  margin: auto;
+}
+
+.card-holder {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  max-width: 1000px;
+  width: 100%;
+  margin: 2rem auto;
+}
+
+.main-btn {
+  position: sticky;
+  top: 0.5rem;
+}
